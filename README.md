@@ -15,7 +15,7 @@ Department of Plant Biology
 Top_Hits.pl:
 
 Aug. 2013
-Corresponding Authors: masalia@uga.edu or jennifer.r.mandel@gmail.com
+Corresponding Authors: masalia@uga.edu
 
 The purpose of this script is to parse a blast output for a user specified best number of hits, determined by query, evalue and identity. Once this is accomplished, it will filter through a cleaned sequence fastq (cleaned by PRINSEQ-lite) to pull out the best blast hit query and that subsequent sequence.
 
